@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\assets",
+    "\\app\\controllers",
+    "\\app\\views",
+    "\\app\\views\\books",
+    "\\app\\views\\main",
+    "\\config",
+    "\\test\\controllers"
+  ],
+  "SelectedNode": "\\app\\views\\books\\delete_confirmation.html.erb",
+  "PreviewInSolutionExplorer": false
+}
